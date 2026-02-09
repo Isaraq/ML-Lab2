@@ -10,6 +10,8 @@ The Target variable is G3, which represents the final student grade.
 
 ## Files
 •	Lab2.ipynb
+
 •	Untitled Diagram.drawio.png
+
 •	student_data.csv
 
