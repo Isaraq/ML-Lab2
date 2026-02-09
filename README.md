@@ -1,6 +1,6 @@
 # ML Lab2
 
-# DataSet
+## DataSet
 Student Perfomeance Dataset
 The Dataset contains tabular data about students, including demographic, social, and academic features.
 The Target variable is G3, which represents the final student grade.
